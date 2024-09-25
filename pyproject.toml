@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "hildebert"
+version = "0.1.0"
+description = ""
+authors = ["Lawrence <lawrence.carbon@contentside.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+typer = "^0.12.5"
+openai = "^1.48.0"
+pydantic = "^2.9.2"
+
+[tool.poetry.scripts]
+hildebert = "hildebert.main:app"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

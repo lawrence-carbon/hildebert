@@ -1,0 +1,29 @@
+# Tools list
+
+- Emails
+  - Send email
+  - Read email
+  - Search email
+- Agenda
+  - read agenda
+  - add event
+  - search event
+  - delete event
+  - update event
+  - postpone event
+- Contacts
+- Messages
+- Tasks
+  - read tasks
+  - add task
+  - search task
+  - delete task
+  - update task
+  - postpone task
+- Home
+  - ??
+- User Interaction
+  - Ask more details
+  - Ask for a confirmation
+- Files
+- 
